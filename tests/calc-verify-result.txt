@@ -1,0 +1,3 @@
+FAIL 2026-11-02 meter oldFuel off: app=1273.5999999998603 excel=1708.80000000005
+FAIL 2026-11-02 meter oldFuel baht: app=5136.905600000416 excel=6270.0358400009
+ผ่าน 1501 ไม่ตรง 2

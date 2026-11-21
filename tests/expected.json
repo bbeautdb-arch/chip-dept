@@ -1,0 +1,2467 @@
+{
+ "days": {
+  "2026-11-01": {
+   "yuka": {
+    "total": 129.82,
+    "kwh": 630.0,
+    "kwhPerTon": 4.8528732090587,
+    "stockAll": 0.0,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 1640.331,
+    "labor": 5646.0,
+    "loader": 1712.62507246377,
+    "bh": null,
+    "ft": 323.4732732,
+    "demand": 2339.58333333333,
+    "costPerTon": 89.8321728469966,
+    "planPerTon": 150.057044647512
+   },
+   "fuel": {
+    "total": 21.49,
+    "kwh": 570.0,
+    "kwhPerTon": 26.5239646347138,
+    "stockBought": 0.0,
+    "stockChip": 7.019105,
+    "stockLog": 32.07,
+    "stockBigCrane": 0.0,
+    "stockBig1": 591.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 1484.109,
+    "labor": 5646.0,
+    "loader": 1712.62507246377,
+    "ft": 292.6662948,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 411.481343530189,
+    "planPerTon": 489.749006182277
+   },
+   "edge": {
+    "chipped": 39.06,
+    "stockEdge": 36.768595,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 6.0,
+    "tons": 39.06,
+    "kwh": 1046.3,
+    "elec": 3662.05,
+    "elecPerTon": 93.7544802867384,
+    "kwhPerTon": 26.7869943676396,
+    "labor": 1231.098,
+    "laborPerTon": 31.5181259600614,
+    "op": 4893.148,
+    "opPerTon": 125.2726062468,
+    "costPerTon": 391.2726062468
+   },
+   "meters": {
+    "mcc27": {
+     "peak": null,
+     "off": 630.0,
+     "peakBaht": 0.0,
+     "offBaht": 1640.331,
+     "baht": 1640.331
+    },
+    "mcc28": {
+     "peak": null,
+     "off": 570.0,
+     "peakBaht": 0.0,
+     "offBaht": 1484.109,
+     "baht": 1484.109
+    },
+    "edge": {
+     "peak": null,
+     "off": 1046.3,
+     "peakBaht": 0.0,
+     "offBaht": 2724.25131,
+     "baht": 2724.25131
+    },
+    "boiler": {
+     "peak": null,
+     "off": 4420.0,
+     "peakBaht": 0.0,
+     "offBaht": 11508.354,
+     "baht": 11508.354
+    },
+    "newTotal": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "total": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": null,
+     "off": 1715.1999999996,
+     "peakBaht": 0.0,
+     "offBaht": 4465.86623999897,
+     "baht": 4465.86623999897
+    },
+    "oldFuel": {
+     "peak": null,
+     "off": 1171.19999999995,
+     "peakBaht": 0.0,
+     "offBaht": 3049.45343999988,
+     "baht": 3049.45343999988
+    }
+   },
+   "summary": {
+    "kwh": 6666.3,
+    "baht": 17357.04531,
+    "ftNew": 0.0
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7921.06,
+    "boiler": 3914.5715942029,
+    "chip": 3425.25014492754,
+    "edge": 489.321449275362,
+    "prod": 3425.25014492754,
+    "hours": 23.0,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 129.82,
+    "fuelTons": 19.65
+   }
+  },
+  "2026-11-02": {
+   "yuka": {
+    "total": 89.56,
+    "kwh": 480.0,
+    "kwhPerTon": 5.35953550692273,
+    "stockAll": 0.0,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 1265.578,
+    "labor": 5646.0,
+    "loader": 1762.88226950355,
+    "bh": null,
+    "ft": 249.5719816,
+    "demand": 2339.58333333333,
+    "costPerTon": 125.766140960662,
+    "planPerTon": 213.063962054262
+   },
+   "fuel": {
+    "total": 82.68,
+    "kwh": 850.0,
+    "kwhPerTon": 10.2805999032414,
+    "stockBought": 0.0,
+    "stockChip": 46.719105,
+    "stockLog": 51.47,
+    "stockBigCrane": 0.0,
+    "stockBig1": 571.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 2560.789,
+    "labor": 5646.0,
+    "loader": 1762.88226950355,
+    "ft": 504.9875908,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 120.581413516008,
+    "planPerTon": 140.074820305481
+   },
+   "edge": {
+    "chipped": 8.68,
+    "stockEdge": 30.102355,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 1.5,
+    "tons": 8.68,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": 0.0,
+    "kwhPerTon": 0.0,
+    "labor": 307.7745,
+    "laborPerTon": 35.4578917050691,
+    "op": 307.7745,
+    "opPerTon": 35.4578917050691,
+    "costPerTon": 301.457891705069
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 10.0,
+     "off": 470.0,
+     "peakBaht": 41.839,
+     "offBaht": 1223.739,
+     "baht": 1265.578
+    },
+    "mcc28": {
+     "peak": 220.0,
+     "off": 630.0,
+     "peakBaht": 920.458,
+     "offBaht": 1640.331,
+     "baht": 2560.789
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 2330.0,
+     "off": 1940.0,
+     "peakBaht": 9748.487,
+     "offBaht": 5051.178,
+     "baht": 14799.665
+    },
+    "newTotal": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "total": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 25.6000000005588,
+     "off": 1267.19999999972,
+     "peakBaht": 107.107840002338,
+     "offBaht": 3299.40863999927,
+     "baht": 3406.51648000161
+    },
+    "oldFuel": {
+     "peak": 435.200000000186,
+     "off": 1708.80000000005,
+     "peakBaht": 1820.83328000078,
+     "offBaht": 4449.20256000012,
+     "baht": 6270.0358400009
+    }
+   },
+   "summary": {
+    "kwh": 5600.0,
+    "baht": 18626.032,
+    "ftNew": 0.0
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7023.6,
+    "boiler": 3525.76453900709,
+    "chip": 3525.76453900709,
+    "edge": 440.720567375886,
+    "prod": 2864.68368794326,
+    "hours": 23.5,
+    "bhHours": 4.20000000000073,
+    "bhRent": 2310.0000000004,
+    "bhFuel": 0.0,
+    "bhTotal": 2310.0000000004
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 89.56,
+    "fuelTons": 82.08
+   }
+  },
+  "2026-11-03": {
+   "yuka": {
+    "total": 139.51,
+    "kwh": 620.0,
+    "kwhPerTon": 4.44412586911332,
+    "stockAll": 0.0,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 2088.354,
+    "labor": 5646.0,
+    "loader": 2450.74425287356,
+    "bh": null,
+    "ft": 411.8234088,
+    "demand": 2339.58333333333,
+    "costPerTon": 92.728155651974,
+    "planPerTon": 148.769965250876
+   },
+   "fuel": {
+    "total": 50.14,
+    "kwh": 750.0,
+    "kwhPerTon": 14.9581172716394,
+    "stockBought": 0.0,
+    "stockChip": 39.549105,
+    "stockLog": 153.44,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 2474.241,
+    "labor": 5646.0,
+    "loader": 2450.74425287356,
+    "ft": 487.9203252,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 210.829382785671,
+    "planPerTon": 229.055407715539
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 14.508595,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 300.0,
+     "off": 320.0,
+     "peakBaht": 1255.17,
+     "offBaht": 833.184,
+     "baht": 2088.354
+    },
+    "mcc28": {
+     "peak": 330.0,
+     "off": 420.0,
+     "peakBaht": 1380.687,
+     "offBaht": 1093.554,
+     "baht": 2474.241
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 2340.0,
+     "off": 1900.0,
+     "peakBaht": 9790.326,
+     "offBaht": 4947.03,
+     "baht": 14737.356
+    },
+    "newTotal": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 800.0,
+     "off": 864.000000000233,
+     "peakBaht": 3347.12,
+     "offBaht": 2249.59680000061,
+     "baht": 5596.71680000061
+    },
+    "oldFuel": {
+     "peak": 691.199999999953,
+     "off": 844.799999999814,
+     "peakBaht": 2891.91167999981,
+     "offBaht": 2199.60575999952,
+     "baht": 5091.51743999932
+    }
+   },
+   "summary": {
+    "kwh": 5610.0,
+    "baht": 19299.951,
+    "ftNew": 0.0
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 8038.12,
+    "boiler": 5881.78620689655,
+    "chip": 4901.48850574713,
+    "edge": 0.0,
+    "prod": 588.178620689655,
+    "hours": 11.6,
+    "bhHours": 6.60000000000218,
+    "bhRent": 3630.0000000012,
+    "bhFuel": 0.0,
+    "bhTotal": 3630.0000000012
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 139.51,
+    "fuelTons": 142.11
+   }
+  },
+  "2026-11-04": {
+   "yuka": {
+    "total": 234.98,
+    "kwh": 1050.0,
+    "kwhPerTon": 4.46846540131075,
+    "stockAll": 5.0,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 3286.955,
+    "labor": 5646.0,
+    "loader": 3035.8505050505,
+    "bh": null,
+    "ft": 648.187526,
+    "demand": 2339.58333333333,
+    "costPerTon": 63.6504228631536,
+    "planPerTon": 96.9230114117231
+   },
+   "fuel": {
+    "total": 93.13,
+    "kwh": 940.0,
+    "kwhPerTon": 10.093417803071,
+    "stockBought": 0.0,
+    "stockChip": 89.699105,
+    "stockLog": 178.64,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 3032.152,
+    "labor": 5646.0,
+    "loader": 3035.8505050505,
+    "ft": 597.9403744,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 125.781193010314,
+    "planPerTon": 129.311168719609
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 7.768435,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 350.0,
+     "off": 700.0,
+     "peakBaht": 1464.365,
+     "offBaht": 1822.59,
+     "baht": 3286.955
+    },
+    "mcc28": {
+     "peak": 370.0,
+     "off": 570.0,
+     "peakBaht": 1548.043,
+     "offBaht": 1484.109,
+     "baht": 3032.152
+    },
+    "edge": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 2080.0,
+     "off": 1380.0,
+     "peakBaht": 8702.512,
+     "offBaht": 3593.106,
+     "baht": 12295.618
+    },
+    "newTotal": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 960.0,
+     "off": 1887.99999999988,
+     "peakBaht": 4016.544,
+     "offBaht": 4915.7855999997,
+     "baht": 8932.3295999997
+    },
+    "oldFuel": {
+     "peak": 748.800000000047,
+     "off": 1152.0000000007,
+     "peakBaht": 3132.9043200002,
+     "offBaht": 2999.46240000182,
+     "baht": 6132.36672000201
+    }
+   },
+   "summary": {
+    "kwh": 5450.0,
+    "baht": 18614.725,
+    "ftNew": 0.0
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 8116.16,
+    "boiler": 5204.31515151515,
+    "chip": 6071.70101010101,
+    "edge": 0.0,
+    "prod": 173.477171717172,
+    "hours": 13.2,
+    "bhHours": 5.09999999999854,
+    "bhRent": 2804.9999999992,
+    "bhFuel": 0.0,
+    "bhTotal": 2804.9999999992
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 234.98,
+    "fuelTons": 118.33
+   }
+  },
+  "2026-11-05": {
+   "yuka": {
+    "total": 241.14,
+    "kwh": 1090.0,
+    "kwhPerTon": 4.52019573691631,
+    "stockAll": 246.14,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 3533.321,
+    "labor": 5646.0,
+    "loader": 1264.36862745098,
+    "bh": null,
+    "ft": 696.7709012,
+    "demand": 2339.58333333333,
+    "costPerTon": 55.9013181636573,
+    "planPerTon": 88.3239475786977
+   },
+   "fuel": {
+    "total": 103.87,
+    "kwh": 910.0,
+    "kwhPerTon": 8.76095118898623,
+    "stockBought": 0.0,
+    "stockChip": 193.569105,
+    "stockLog": 128.26,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 3064.655,
+    "labor": 5646.0,
+    "loader": 1264.36862745098,
+    "ft": 604.349966,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 96.0337308891016,
+    "planPerTon": 116.253510569531
+   },
+   "edge": {
+    "chipped": 37.324,
+    "stockEdge": 45.092435,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 8.0,
+    "tons": 37.324,
+    "kwh": 440.5,
+    "elec": 1541.75,
+    "elecPerTon": 41.3072018004501,
+    "kwhPerTon": 11.8020576572715,
+    "labor": 1641.464,
+    "laborPerTon": 43.9787804093881,
+    "op": 3183.214,
+    "opPerTon": 85.2859822098382,
+    "costPerTon": 351.285982209838
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 440.0,
+     "off": 650.0,
+     "peakBaht": 1840.916,
+     "offBaht": 1692.405,
+     "baht": 3533.321
+    },
+    "mcc28": {
+     "peak": 440.0,
+     "off": 470.0,
+     "peakBaht": 1840.916,
+     "offBaht": 1223.739,
+     "baht": 3064.655
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 440.5,
+     "peakBaht": 0.0,
+     "offBaht": 1146.92985,
+     "baht": 1146.92985
+    },
+    "boiler": {
+     "peak": 0.0,
+     "off": 1140.0,
+     "peakBaht": 0.0,
+     "offBaht": 2968.218,
+     "baht": 2968.218
+    },
+    "newTotal": {
+     "peak": 0.0,
+     "off": 10960.0,
+     "peakBaht": 0.0,
+     "offBaht": 28536.552,
+     "baht": 28536.552
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 1158.39999999967,
+     "off": 1766.40000000014,
+     "peakBaht": 4846.62975999864,
+     "offBaht": 4599.17568000036,
+     "baht": 9445.805439999
+    },
+    "oldFuel": {
+     "peak": 895.999999999767,
+     "off": 972.800000000279,
+     "peakBaht": 3748.77439999903,
+     "offBaht": 2532.87936000073,
+     "baht": 6281.65375999975
+    }
+   },
+   "summary": {
+    "kwh": 3580.5,
+    "baht": 10713.12385,
+    "ftNew": 2161.312
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7413.8,
+    "boiler": 1896.55294117647,
+    "chip": 2528.73725490196,
+    "edge": 1264.36862745098,
+    "prod": 5057.47450980392,
+    "hours": 17.0,
+    "bhHours": 4.90000000000146,
+    "bhRent": 2695.0000000008,
+    "bhFuel": 6586.0,
+    "bhTotal": 9281.0000000008
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 241.14,
+    "fuelTons": 53.49
+   }
+  },
+  "2026-11-06": {
+   "yuka": {
+    "total": 323.69,
+    "kwh": 1450.0,
+    "kwhPerTon": 4.4795946739164,
+    "stockAll": 569.83,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 4802.495,
+    "labor": 5646.0,
+    "loader": 1666.66666666666,
+    "bh": 0.0,
+    "ft": 947.052014,
+    "demand": 2339.58333333333,
+    "costPerTon": 47.5819364639006,
+    "planPerTon": 71.735888878689
+   },
+   "fuel": {
+    "total": 35.82,
+    "kwh": 570.0,
+    "kwhPerTon": 15.9128978224456,
+    "stockBought": 0.0,
+    "stockChip": 229.389105,
+    "stockLog": 151.2,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 1815.951,
+    "labor": 5646.0,
+    "loader": 1666.66666666666,
+    "ft": 358.1055372,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 254.84694770147,
+    "planPerTon": 302.248691872059
+   },
+   "edge": {
+    "chipped": 46.872,
+    "stockEdge": 91.964435,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 5.0,
+    "tons": 46.872,
+    "kwh": 510.699999999999,
+    "elec": 1787.45,
+    "elecPerTon": 38.134707287933,
+    "kwhPerTon": 10.8956306536951,
+    "labor": 1025.915,
+    "laborPerTon": 21.8875874722649,
+    "op": 2813.365,
+    "opPerTon": 60.0222947601979,
+    "costPerTon": 326.022294760198
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 650.0,
+     "off": 800.0,
+     "peakBaht": 2719.535,
+     "offBaht": 2082.96,
+     "baht": 4802.495
+    },
+    "mcc28": {
+     "peak": 210.0,
+     "off": 360.0,
+     "peakBaht": 878.619,
+     "offBaht": 937.332,
+     "baht": 1815.951
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 510.699999999999,
+     "peakBaht": 0.0,
+     "offBaht": 1329.70959,
+     "baht": 1329.70959
+    },
+    "boiler": {
+     "peak": 0.0,
+     "off": 1010.0,
+     "peakBaht": 0.0,
+     "offBaht": 2629.737,
+     "baht": 2629.737
+    },
+    "newTotal": {
+     "peak": 1090.0,
+     "off": 1450.0,
+     "peakBaht": 4560.451,
+     "offBaht": 3775.365,
+     "baht": 8335.816
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 1779.19999999984,
+     "off": 2144.00000000023,
+     "peakBaht": 7443.99487999932,
+     "offBaht": 5582.33280000061,
+     "baht": 13026.3276799999
+    },
+    "oldFuel": {
+     "peak": 409.599999999627,
+     "off": 748.800000000047,
+     "peakBaht": 1713.72543999844,
+     "offBaht": 1949.65056000012,
+     "baht": 3663.37599999856
+    }
+   },
+   "summary": {
+    "kwh": 3540.7,
+    "baht": 10577.89259,
+    "ftNew": 451.588
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 0.0,
+    "boiler": 0.0,
+    "chip": 3333.33333333333,
+    "edge": 0.0,
+    "prod": 0.0,
+    "hours": 8.8,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 323.69,
+    "fuelTons": 58.76
+   }
+  },
+  "2026-11-07": {
+   "yuka": {
+    "total": 233.85,
+    "kwh": 1090.0,
+    "kwhPerTon": 4.66110754757323,
+    "stockAll": 803.68,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 2838.033,
+    "labor": 5646.0,
+    "loader": 1634.58779342723,
+    "bh": 3904.9999999992,
+    "ft": 559.6601076,
+    "demand": 2339.58333333333,
+    "costPerTon": 72.3663212929646,
+    "planPerTon": 89.1009497177824
+   },
+   "fuel": {
+    "total": 26.34,
+    "kwh": 590.0,
+    "kwhPerTon": 22.3993925588459,
+    "stockBought": 0.0,
+    "stockChip": 184.089105,
+    "stockLog": 151.2,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 71.64,
+    "sBark": 0.0,
+    "sEdge": 17.36,
+    "sDust": 2.64,
+    "sPulp": 2.64,
+    "sVeneer": 6.8,
+    "elec": 1536.183,
+    "labor": 5646.0,
+    "loader": 1634.58779342723,
+    "ft": 302.9352876,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 334.729339158209,
+    "planPerTon": 400.409268901182
+   },
+   "edge": {
+    "chipped": 43.4,
+    "stockEdge": 118.004435,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 9.0,
+    "tons": 43.4,
+    "kwh": 674.9,
+    "elec": 2362.15,
+    "elecPerTon": 54.4274193548387,
+    "kwhPerTon": 15.5506912442396,
+    "labor": 1846.647,
+    "laborPerTon": 42.5494700460829,
+    "op": 4208.797,
+    "opPerTon": 96.9768894009216,
+    "costPerTon": 362.976889400922
+   },
+   "meters": {
+    "mcc27": {
+     "peak": null,
+     "off": 1090.0,
+     "peakBaht": 0.0,
+     "offBaht": 2838.033,
+     "baht": 2838.033
+    },
+    "mcc28": {
+     "peak": null,
+     "off": 590.0,
+     "peakBaht": 0.0,
+     "offBaht": 1536.183,
+     "baht": 1536.183
+    },
+    "edge": {
+     "peak": null,
+     "off": 674.9,
+     "peakBaht": 0.0,
+     "offBaht": 1757.23713,
+     "baht": 1757.23713
+    },
+    "boiler": {
+     "peak": null,
+     "off": 1170.0,
+     "peakBaht": 0.0,
+     "offBaht": 3046.329,
+     "baht": 3046.329
+    },
+    "newTotal": {
+     "peak": null,
+     "off": 2290.0,
+     "peakBaht": 0.0,
+     "offBaht": 5962.473,
+     "baht": 5962.473
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": null,
+     "off": 2975.99999999977,
+     "peakBaht": 0.0,
+     "offBaht": 7748.61119999939,
+     "baht": 7748.61119999939
+    },
+    "oldFuel": {
+     "peak": null,
+     "off": 1196.80000000051,
+     "peakBaht": 0.0,
+     "offBaht": 3116.10816000133,
+     "baht": 3116.10816000133
+    }
+   },
+   "summary": {
+    "kwh": 3524.9,
+    "baht": 9177.78213,
+    "ftNew": 451.588
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 8272.24,
+    "boiler": 0.0,
+    "chip": 3269.17558685446,
+    "edge": 1634.58779342723,
+    "prod": 6701.80995305164,
+    "hours": 14.2,
+    "bhHours": 7.09999999999854,
+    "bhRent": 3904.9999999992,
+    "bhFuel": 0.0,
+    "bhTotal": 3904.9999999992
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 233.85,
+    "fuelTons": 26.34
+   }
+  },
+  "2026-11-08": {
+   "yuka": {
+    "total": 178.88,
+    "kwh": 720.0,
+    "kwhPerTon": 4.02504472271914,
+    "stockAll": 982.56,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 1874.664,
+    "labor": 5646.0,
+    "loader": 1555.49348230912,
+    "bh": 0.0,
+    "ft": 369.6837408,
+    "demand": 2339.58333333333,
+    "costPerTon": 65.8845290498796,
+    "planPerTon": 109.592002535696
+   },
+   "fuel": {
+    "total": 89.55,
+    "kwh": 1050.0,
+    "kwhPerTon": 11.7252931323283,
+    "stockBought": 0.0,
+    "stockChip": 268.269105,
+    "stockLog": 114.28,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 71.64,
+    "sBark": 0.0,
+    "sEdge": 17.36,
+    "sDust": 2.64,
+    "sPulp": 2.64,
+    "sVeneer": 6.8,
+    "elec": 2733.885,
+    "labor": 5646.0,
+    "loader": 1555.49348230912,
+    "ft": 539.122122,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 110.947833414954,
+    "planPerTon": 131.149996011805
+   },
+   "edge": {
+    "chipped": 21.7,
+    "stockEdge": 139.704435,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 5.0,
+    "tons": 21.7,
+    "kwh": 367.700000000001,
+    "elec": 1286.95,
+    "elecPerTon": 59.3064516129033,
+    "kwhPerTon": 16.9447004608295,
+    "labor": 1025.915,
+    "laborPerTon": 47.2771889400922,
+    "op": 2312.865,
+    "opPerTon": 106.583640552996,
+    "costPerTon": 372.583640552996
+   },
+   "meters": {
+    "mcc27": {
+     "peak": null,
+     "off": 720.0,
+     "peakBaht": 0.0,
+     "offBaht": 1874.664,
+     "baht": 1874.664
+    },
+    "mcc28": {
+     "peak": null,
+     "off": 1050.0,
+     "peakBaht": 0.0,
+     "offBaht": 2733.885,
+     "baht": 2733.885
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 367.700000000001,
+     "peakBaht": 0.0,
+     "offBaht": 957.380490000002,
+     "baht": 957.380490000002
+    },
+    "boiler": {
+     "peak": null,
+     "off": 1250.0,
+     "peakBaht": 0.0,
+     "offBaht": 3254.625,
+     "baht": 3254.625
+    },
+    "newTotal": {
+     "peak": null,
+     "off": 2190.0,
+     "peakBaht": 0.0,
+     "offBaht": 5702.103,
+     "baht": 5702.103
+    },
+    "total": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": null,
+     "off": 1952.00000000012,
+     "peakBaht": 0.0,
+     "offBaht": 5082.4224000003,
+     "baht": 5082.4224000003
+    },
+    "oldFuel": {
+     "peak": null,
+     "off": 2131.19999999995,
+     "peakBaht": 0.0,
+     "offBaht": 5549.00543999988,
+     "baht": 5549.00543999988
+    }
+   },
+   "summary": {
+    "kwh": 3387.7,
+    "baht": 8820.55449,
+    "ftNew": 431.868
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7804.0,
+    "boiler": 1866.59217877095,
+    "chip": 3110.98696461825,
+    "edge": 1244.3947858473,
+    "prod": 4915.35940409683,
+    "hours": 17.9,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 178.88,
+    "fuelTons": 52.63
+   }
+  },
+  "2026-11-09": {
+   "yuka": {
+    "total": 259.12,
+    "kwh": 1200.0,
+    "kwhPerTon": 4.63105896881754,
+    "stockAll": 1224.58,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 3677.51,
+    "labor": 5646.0,
+    "loader": 1709.66056910569,
+    "bh": 0.0,
+    "ft": 725.204972,
+    "demand": 2339.58333333333,
+    "costPerTon": 54.4070657395763,
+    "planPerTon": 84.5799310419183
+   },
+   "fuel": {
+    "total": 44.77,
+    "kwh": 740.0,
+    "kwhPerTon": 16.5289256198347,
+    "stockBought": 0.0,
+    "stockChip": 313.039105,
+    "stockLog": 159.9,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 53.88,
+    "sBark": 0.0,
+    "sEdge": 13.1175,
+    "sDust": 1.9875,
+    "sPulp": 1.9875,
+    "sVeneer": 5.1075,
+    "elec": 2400.798,
+    "labor": 5646.0,
+    "loader": 1709.66056910569,
+    "ft": 473.4373656,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 217.924024326685,
+    "planPerTon": 254.889326398417
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 135.461935,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 350.0,
+     "off": 850.0,
+     "peakBaht": 1464.365,
+     "offBaht": 2213.145,
+     "baht": 3677.51
+    },
+    "mcc28": {
+     "peak": 300.0,
+     "off": 440.0,
+     "peakBaht": 1255.17,
+     "offBaht": 1145.628,
+     "baht": 2400.798
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 1000.0,
+     "off": 1230.0,
+     "peakBaht": 4183.9,
+     "offBaht": 3202.551,
+     "baht": 7386.451
+    },
+    "newTotal": {
+     "peak": 690.0,
+     "off": 1400.0,
+     "peakBaht": 2886.891,
+     "offBaht": 3645.18,
+     "baht": 6532.071
+    },
+    "total": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 940.800000000163,
+     "off": 2316.79999999993,
+     "peakBaht": 3936.21312000068,
+     "offBaht": 6032.25215999982,
+     "baht": 9968.4652800005
+    },
+    "oldFuel": {
+     "peak": 601.599999999162,
+     "off": 902.399999999907,
+     "peakBaht": 2517.03423999649,
+     "offBaht": 2349.57887999976,
+     "baht": 4866.61311999625
+    }
+   },
+   "summary": {
+    "kwh": 4170.0,
+    "baht": 13464.759,
+    "ftNew": 412.148
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7882.04,
+    "boiler": 2325.13837398374,
+    "chip": 3419.32113821138,
+    "edge": 0.0,
+    "prod": 5470.91382113821,
+    "hours": 16.4,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 259.12,
+    "fuelTons": 90.39
+   }
+  },
+  "2026-11-10": {
+   "yuka": {
+    "total": 313.46,
+    "kwh": 1330.0,
+    "kwhPerTon": 4.24296560964716,
+    "stockAll": 1264.44,
+    "stockBought": 0.0,
+    "stockLog": 40.0,
+    "stockBig": 20.09,
+    "elec": 4031.793,
+    "labor": 5646.0,
+    "loader": 1950.49971014493,
+    "bh": 0.0,
+    "ft": 795.0695796,
+    "demand": 2339.58333333333,
+    "costPerTon": 47.0967447938437,
+    "planPerTon": 72.0389793920153
+   },
+   "fuel": {
+    "total": 55.52,
+    "kwh": 830.0,
+    "kwhPerTon": 14.9495677233429,
+    "stockBought": 0.0,
+    "stockChip": 334.539105,
+    "stockLog": 207.71,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 16.484544,
+    "sBark": 0.0,
+    "sEdge": 4.184492,
+    "sDust": 0.613596,
+    "sPulp": 0.613596,
+    "sVeneer": 1.543772,
+    "elec": 2587.725,
+    "labor": 5646.0,
+    "loader": 1950.49971014493,
+    "ft": 510.29937,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 183.433442185607,
+    "planPerTon": 208.903496809386
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 126.528927,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 360.0,
+     "off": 970.0,
+     "peakBaht": 1506.204,
+     "offBaht": 2525.589,
+     "baht": 4031.793
+    },
+    "mcc28": {
+     "peak": 270.0,
+     "off": 560.0,
+     "peakBaht": 1129.653,
+     "offBaht": 1458.072,
+     "baht": 2587.725
+    },
+    "edge": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 1880.0,
+     "off": 1610.0,
+     "peakBaht": 7865.732,
+     "offBaht": 4191.957,
+     "baht": 12057.689
+    },
+    "newTotal": {
+     "peak": 640.0,
+     "off": 1590.0,
+     "peakBaht": 2677.696,
+     "offBaht": 4139.883,
+     "baht": 6817.579
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 966.40000000014,
+     "off": 2623.99999999965,
+     "peakBaht": 4043.32096000058,
+     "offBaht": 6832.10879999909,
+     "baht": 10875.4297599997
+    },
+    "oldFuel": {
+     "peak": 544.000000000233,
+     "off": 1094.40000000061,
+     "peakBaht": 2276.04160000097,
+     "offBaht": 2849.48928000158,
+     "baht": 5125.53088000255
+    }
+   },
+   "summary": {
+    "kwh": 5650.0,
+    "baht": 18677.207,
+    "ftNew": 439.756
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7882.04,
+    "boiler": 3413.37449275362,
+    "chip": 3900.99942028985,
+    "edge": 0.0,
+    "prod": 3900.99942028985,
+    "hours": 23.0,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 353.46,
+    "fuelTons": 103.33
+   }
+  },
+  "2026-11-11": {
+   "yuka": {
+    "total": 357.61,
+    "kwh": 1660.0,
+    "kwhPerTon": 4.64192835770812,
+    "stockAll": 1416.85,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 5096.44,
+    "labor": 5646.0,
+    "loader": 1936.92753623188,
+    "bh": 0.0,
+    "ft": 1005.017968,
+    "demand": 2339.58333333333,
+    "costPerTon": 44.808503222967,
+    "planPerTon": 75.0680447552283
+   },
+   "fuel": {
+    "total": 112.83,
+    "kwh": 1050.0,
+    "kwhPerTon": 9.30603562882212,
+    "stockBought": 0.0,
+    "stockChip": 391.849105,
+    "stockLog": 167.86,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 3334.361,
+    "labor": 5646.0,
+    "loader": 1936.92753623188,
+    "ft": 657.5359892,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 96.7587391317193,
+    "planPerTon": 109.412019346425
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 117.373612,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 490.0,
+     "off": 1170.0,
+     "peakBaht": 2050.111,
+     "offBaht": 3046.329,
+     "baht": 5096.44
+    },
+    "mcc28": {
+     "peak": 380.0,
+     "off": 670.0,
+     "peakBaht": 1589.882,
+     "offBaht": 1744.479,
+     "baht": 3334.361
+    },
+    "edge": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 2350.0,
+     "off": 1830.0,
+     "peakBaht": 9832.165,
+     "offBaht": 4764.771,
+     "baht": 14596.936
+    },
+    "newTotal": {
+     "peak": 910.0,
+     "off": 1910.0,
+     "peakBaht": 3807.349,
+     "offBaht": 4973.067,
+     "baht": 8780.416
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 1344.00000000023,
+     "off": 3135.99999999977,
+     "peakBaht": 5623.16160000097,
+     "offBaht": 8165.20319999939,
+     "baht": 13788.3648000004
+    },
+    "oldFuel": {
+     "peak": 0.0,
+     "off": 2175.99999999977,
+     "peakBaht": 0.0,
+     "offBaht": 5665.65119999939,
+     "baht": 5665.65119999939
+    }
+   },
+   "summary": {
+    "kwh": 6890.0,
+    "baht": 23027.737,
+    "ftNew": 556.104
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7804.0,
+    "boiler": 3389.6231884058,
+    "chip": 3873.85507246377,
+    "edge": 0.0,
+    "prod": 3873.85507246377,
+    "hours": 23.0,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 317.61,
+    "fuelTons": 72.98
+   }
+  },
+  "2026-11-12": {
+   "yuka": {
+    "total": 111.13,
+    "kwh": 620.0,
+    "kwhPerTon": 5.57905156123459,
+    "stockAll": 1262.93,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 1898.73,
+    "labor": 5646.0,
+    "loader": 1945.57524613221,
+    "bh": 0.0,
+    "ft": 374.429556,
+    "demand": 2339.58333333333,
+    "costPerTon": 109.820193786246,
+    "planPerTon": 180.173769392679
+   },
+   "fuel": {
+    "total": 98.5,
+    "kwh": 960.0,
+    "kwhPerTon": 9.74619289340102,
+    "stockBought": 0.0,
+    "stockChip": 379.309105,
+    "stockLog": 135.71,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 3131.632,
+    "labor": 5646.0,
+    "loader": 1945.57524613221,
+    "ft": 617.5578304,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 108.865048184083,
+    "planPerTon": 123.271361856418
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 109.406892,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 180.0,
+     "off": 440.0,
+     "peakBaht": 753.102,
+     "offBaht": 1145.628,
+     "baht": 1898.73
+    },
+    "mcc28": {
+     "peak": 400.0,
+     "off": 560.0,
+     "peakBaht": 1673.56,
+     "offBaht": 1458.072,
+     "baht": 3131.632
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 2380.0,
+     "off": 1860.0,
+     "peakBaht": 9957.682,
+     "offBaht": 4842.882,
+     "baht": 14800.564
+    },
+    "newTotal": {
+     "peak": 620.0,
+     "off": 1080.0,
+     "peakBaht": 2594.018,
+     "offBaht": 2811.996,
+     "baht": 5406.014
+    },
+    "total": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 512.000000000116,
+     "off": 1184.00000000023,
+     "peakBaht": 2142.15680000049,
+     "offBaht": 3082.78080000061,
+     "baht": 5224.93760000109
+    },
+    "oldFuel": {
+     "peak": 825.599999999395,
+     "off": 1132.80000000028,
+     "peakBaht": 3454.22783999747,
+     "offBaht": 2949.47136000073,
+     "baht": 6403.69919999819
+    }
+   },
+   "summary": {
+    "kwh": 5820.0,
+    "baht": 19830.926,
+    "ftNew": 335.24
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 8194.2,
+    "boiler": 3404.75668073136,
+    "chip": 3891.15049226442,
+    "edge": 0.0,
+    "prod": 4231.62616033755,
+    "hours": 23.7,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 111.13,
+    "fuelTons": 66.35
+   }
+  },
+  "2026-11-13": {
+   "yuka": {
+    "total": 173.63,
+    "kwh": 840.0,
+    "kwhPerTon": 4.83787363934804,
+    "stockAll": 1257.01,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 2187.108,
+    "labor": 5646.0,
+    "loader": 1901.74555555555,
+    "bh": null,
+    "ft": 431.2976976,
+    "demand": 2339.58333333333,
+    "costPerTon": 72.0251948769734,
+    "planPerTon": 117.054238574162
+   },
+   "fuel": {
+    "total": 68.05,
+    "kwh": 1020.0,
+    "kwhPerTon": 14.9889786921381,
+    "stockBought": 0.0,
+    "stockChip": 375.719105,
+    "stockLog": 246.81,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 2655.774,
+    "labor": 5646.0,
+    "loader": 1901.74555555555,
+    "ft": 523.7186328,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 149.941507061801,
+    "planPerTon": 171.438223994962
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 97.164284,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 0.0,
+     "off": 840.0,
+     "peakBaht": 0.0,
+     "offBaht": 2187.108,
+     "baht": 2187.108
+    },
+    "mcc28": {
+     "peak": 0.0,
+     "off": 1020.0,
+     "peakBaht": 0.0,
+     "offBaht": 2655.774,
+     "baht": 2655.774
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 2370.0,
+     "off": 2010.0,
+     "peakBaht": 9915.843,
+     "offBaht": 5233.437,
+     "baht": 15149.28
+    },
+    "newTotal": {
+     "peak": 0.0,
+     "off": 1970.0,
+     "peakBaht": 0.0,
+     "offBaht": 5129.289,
+     "baht": 5129.289
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 0.0,
+     "off": 2303.99999999965,
+     "peakBaht": 0.0,
+     "offBaht": 5998.92479999909,
+     "baht": 5998.92479999909
+    },
+    "oldFuel": {
+     "peak": 0.0,
+     "off": 2067.19999999972,
+     "peakBaht": 0.0,
+     "offBaht": 5382.36863999927,
+     "baht": 5382.36863999927
+    }
+   },
+   "summary": {
+    "kwh": 6240.0,
+    "baht": 19992.162,
+    "ftNew": 388.484
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 8077.14,
+    "boiler": 3260.13523809524,
+    "chip": 3803.49111111111,
+    "edge": 0.0,
+    "prod": 4346.84698412698,
+    "hours": 21.0,
+    "bhHours": 8.29999999999927,
+    "bhRent": 4564.9999999996,
+    "bhFuel": 5202.94,
+    "bhTotal": 9767.9399999996
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 173.63,
+    "fuelTons": 179.15
+   }
+  },
+  "2026-11-14": {
+   "yuka": {
+    "total": 159.45,
+    "kwh": 810.0,
+    "kwhPerTon": 5.07996237064911,
+    "stockAll": 1151.41,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 2108.997,
+    "labor": 5646.0,
+    "loader": 1879.71870604782,
+    "bh": null,
+    "ft": 415.8942084,
+    "demand": 2339.58333333333,
+    "costPerTon": 77.7058215602455,
+    "planPerTon": 126.739329601279
+   },
+   "fuel": {
+    "total": 80.59,
+    "kwh": 630.0,
+    "kwhPerTon": 7.81734706539273,
+    "stockBought": 0.0,
+    "stockChip": 370.349105,
+    "stockLog": 197.53,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 1640.331,
+    "labor": 5646.0,
+    "loader": 1879.71870604782,
+    "ft": 323.4732732,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 113.73681233463,
+    "planPerTon": 132.161907716306
+   },
+   "edge": {
+    "chipped": 4.34,
+    "stockEdge": 89.261676,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 4.34,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": 0.0,
+    "kwhPerTon": 0.0,
+    "labor": 0.0,
+    "laborPerTon": 0.0,
+    "op": 0.0,
+    "opPerTon": 0.0,
+    "costPerTon": 266.0
+   },
+   "meters": {
+    "mcc27": {
+     "peak": null,
+     "off": 810.0,
+     "peakBaht": 0.0,
+     "offBaht": 2108.997,
+     "baht": 2108.997
+    },
+    "mcc28": {
+     "peak": null,
+     "off": 630.0,
+     "peakBaht": 0.0,
+     "offBaht": 1640.331,
+     "baht": 1640.331
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": null,
+     "off": 4200.0,
+     "peakBaht": 0.0,
+     "offBaht": 10935.54,
+     "baht": 10935.54
+    },
+    "newTotal": {
+     "peak": null,
+     "off": 1590.0,
+     "peakBaht": 0.0,
+     "offBaht": 4139.883,
+     "baht": 4139.883
+    },
+    "total": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": null,
+     "off": 2176.00000000035,
+     "peakBaht": 0.0,
+     "offBaht": 5665.65120000091,
+     "baht": 5665.65120000091
+    },
+    "oldFuel": {
+     "peak": null,
+     "off": 1536.00000000093,
+     "peakBaht": 0.0,
+     "offBaht": 3999.28320000242,
+     "baht": 3999.28320000242
+    }
+   },
+   "summary": {
+    "kwh": 5640.0,
+    "baht": 14684.868,
+    "ftNew": 313.548
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 7804.0,
+    "boiler": 3289.50773558368,
+    "chip": 3759.43741209564,
+    "edge": 0.0,
+    "prod": 4088.38818565401,
+    "hours": 23.7,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 159.45,
+    "fuelTons": 31.31
+   }
+  },
+  "2026-11-15": {
+   "yuka": {
+    "total": 176.8,
+    "kwh": 1050.0,
+    "kwhPerTon": 5.93891402714932,
+    "stockAll": 1064.87,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 2733.885,
+    "labor": 5646.0,
+    "loader": 1948.84992907801,
+    "bh": null,
+    "ft": 539.122122,
+    "demand": 2339.58333333333,
+    "costPerTon": 74.702717106399,
+    "planPerTon": 118.924396162637
+   },
+   "fuel": {
+    "total": 111.04,
+    "kwh": 750.0,
+    "kwhPerTon": 6.75432276657061,
+    "stockBought": 0.0,
+    "stockChip": 409.749105,
+    "stockLog": 153.84,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 1952.775,
+    "labor": 5646.0,
+    "loader": 1948.84992907801,
+    "ft": 385.08723,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 85.9836539001983,
+    "planPerTon": 98.7335387505146
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 76.824568,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": null,
+     "off": 1050.0,
+     "peakBaht": 0.0,
+     "offBaht": 2733.885,
+     "baht": 2733.885
+    },
+    "mcc28": {
+     "peak": null,
+     "off": 750.0,
+     "peakBaht": 0.0,
+     "offBaht": 1952.775,
+     "baht": 1952.775
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": null,
+     "off": 4070.0,
+     "peakBaht": 0.0,
+     "offBaht": 10597.059,
+     "baht": 10597.059
+    },
+    "newTotal": {
+     "peak": null,
+     "off": 1930.0,
+     "peakBaht": 0.0,
+     "offBaht": 5025.141,
+     "baht": 5025.141
+    },
+    "total": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": null,
+     "off": 2847.99999999988,
+     "peakBaht": 0.0,
+     "offBaht": 7415.3375999997,
+     "baht": 7415.3375999997
+    },
+    "oldFuel": {
+     "peak": null,
+     "off": 1273.59999999986,
+     "peakBaht": 0.0,
+     "offBaht": 3316.07231999964,
+     "baht": 3316.07231999964
+    }
+   },
+   "summary": {
+    "kwh": 5870.0,
+    "baht": 15283.719,
+    "ftNew": 380.596
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 8116.16,
+    "boiler": 3410.48737588652,
+    "chip": 3897.69985815603,
+    "edge": 0.0,
+    "prod": 4141.30609929078,
+    "hours": 23.5,
+    "bhHours": 0.0,
+    "bhRent": 0.0,
+    "bhFuel": 0.0,
+    "bhTotal": 0.0
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 176.8,
+    "fuelTons": 67.35
+   }
+  },
+  "2026-11-16": {
+   "yuka": {
+    "total": 196.36,
+    "kwh": 720.0,
+    "kwhPerTon": 3.66673456915869,
+    "stockAll": 987.63,
+    "stockBought": 0.0,
+    "stockLog": 0.0,
+    "stockBig": 20.09,
+    "elec": 2080.09,
+    "labor": 5646.0,
+    "loader": 1449.3029535865,
+    "bh": 7242.1399999996,
+    "ft": 410.193748,
+    "demand": 2339.58333333333,
+    "costPerTon": 97.6131087539185,
+    "planPerTon": 100.547784131507
+   },
+   "fuel": {
+    "total": 85.96,
+    "kwh": 780.0,
+    "kwhPerTon": 9.07398790134947,
+    "stockBought": 0.0,
+    "stockChip": 406.159105,
+    "stockLog": 265.2,
+    "stockBigCrane": 0.0,
+    "stockBig1": 561.24,
+    "sChip": 0.0,
+    "sBark": 0.0,
+    "sEdge": 0.0,
+    "sDust": 0.0,
+    "sPulp": 0.0,
+    "sVeneer": 0.0,
+    "elec": 2283.718,
+    "labor": 5646.0,
+    "loader": 1449.3029535865,
+    "ft": 450.3491896,
+    "demand": 2339.58333333333,
+    "repair": 0.0,
+    "costPerTon": 109.109131614547,
+    "planPerTon": 131.390357641428
+   },
+   "edge": {
+    "chipped": 0.0,
+    "stockEdge": 62.833016,
+    "stockOver": 0.0
+   },
+   "board": {
+    "hours": 0.0,
+    "tons": 0.0,
+    "kwh": 0.0,
+    "elec": 0.0,
+    "elecPerTon": null,
+    "kwhPerTon": null,
+    "labor": 0.0,
+    "laborPerTon": null,
+    "op": 0.0,
+    "opPerTon": null,
+    "costPerTon": null
+   },
+   "meters": {
+    "mcc27": {
+     "peak": 130.0,
+     "off": 590.0,
+     "peakBaht": 543.907,
+     "offBaht": 1536.183,
+     "baht": 2080.09
+    },
+    "mcc28": {
+     "peak": 160.0,
+     "off": 620.0,
+     "peakBaht": 669.424,
+     "offBaht": 1614.294,
+     "baht": 2283.718
+    },
+    "edge": {
+     "peak": 0.0,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "boiler": {
+     "peak": 2340.0,
+     "off": 1770.0,
+     "peakBaht": 9790.326,
+     "offBaht": 4608.549,
+     "baht": 14398.875
+    },
+    "newTotal": {
+     "peak": 340.0,
+     "off": 1280.0,
+     "peakBaht": 1422.526,
+     "offBaht": 3332.736,
+     "baht": 4755.262
+    },
+    "total": {
+     "peak": null,
+     "off": 0.0,
+     "peakBaht": 0.0,
+     "offBaht": 0.0,
+     "baht": 0.0
+    },
+    "oldYuka": {
+     "peak": 371.199999999953,
+     "off": 1600.0,
+     "peakBaht": 1553.06367999981,
+     "offBaht": 4165.92,
+     "baht": 5718.98367999981
+    },
+    "oldFuel": {
+     "peak": 294.399999999441,
+     "off": 1280.0,
+     "peakBaht": 1231.74015999766,
+     "offBaht": 3332.736,
+     "baht": 4564.47615999766
+    }
+   },
+   "summary": {
+    "kwh": 5610.0,
+    "baht": 18762.683,
+    "ftNew": 319.464
+   },
+   "machines": {
+    "rent": 3333.33333333333,
+    "fuel": 8116.16,
+    "boiler": 3864.80787623066,
+    "chip": 2898.605907173,
+    "edge": 0.0,
+    "prod": 4686.07954992968,
+    "hours": 23.7,
+    "bhHours": 7.29999999999927,
+    "bhRent": 4014.9999999996,
+    "bhFuel": 3227.14,
+    "bhTotal": 7242.1399999996
+   },
+   "shifts": {
+    "yukaRun": [
+     2.5,
+     4.75,
+     -2.25
+    ],
+    "fuelRun": [
+     5.83333333333333,
+     6.0,
+     6.25
+    ],
+    "yukaTons": 196.36,
+    "fuelTons": 197.32
+   }
+  }
+ },
+ "month": {
+  "yuka": {
+   "logIn": 3318.99,
+   "total": 3318.99,
+   "silo": 2331.36,
+   "kwh": 15360,
+   "elec": 45144.284,
+   "labor": 175026,
+   "laborElec": 220170.284,
+   "laborElecPerTon": 66.3365312941588
+  },
+  "fuel": {
+   "logIn": 1361.57,
+   "total": 1160.28,
+   "elec": 38689.079,
+   "labor": 175026,
+   "laborElec": 213715.079,
+   "laborElecPerTon": 184.192676767677
+  },
+  "edge": {
+   "chipped": 201.376,
+   "use": 133.010779,
+   "stock": 62.833016
+  },
+  "board": {
+   "hours": 34.5,
+   "scoops": 232,
+   "tons": 201.376,
+   "kwh": 3040.1,
+   "elec": 10640.35,
+   "labor": 7078.8135,
+   "op": 17719.1635,
+   "opPerTon": 87.990443250437,
+   "kwhPerTon": 15.0966351501669
+  },
+  "shifts": {
+   "yukaTons": 3318.99,
+   "fuelTons": 1361.57
+  }
+ },
+ "holidays": [
+  "2026-11-01",
+  "2026-11-07",
+  "2026-11-08",
+  "2026-11-14",
+  "2026-11-15"
+ ]
+}
